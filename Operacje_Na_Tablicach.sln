@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operacje_Na_Tablicach", "Operacje_Na_Tablicach\Operacje_Na_Tablicach.csproj", "{759DE74E-408D-4E5F-9FEB-FA7AE2959FC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{759DE74E-408D-4E5F-9FEB-FA7AE2959FC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{759DE74E-408D-4E5F-9FEB-FA7AE2959FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{759DE74E-408D-4E5F-9FEB-FA7AE2959FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{759DE74E-408D-4E5F-9FEB-FA7AE2959FC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F8CE0C7-D5E5-492F-9DA7-4DCC9FCA73A7}
+	EndGlobalSection
+EndGlobal
